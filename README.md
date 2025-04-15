@@ -1,3 +1,3 @@
-# roll_dice2
+# coin flipper
 
 A new Flutter project.
